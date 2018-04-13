@@ -18,6 +18,6 @@ When we want to plot a circos figures to represent several genes or other labels
 4. human.VDJ.Link.txt
 
 # Scripts
-1. CreateRcircosFiles.py
+**1. CreateRcircosFiles.py**
 
-2. RCircos_run.r
+**2. RCircos_run.r**
